@@ -30,7 +30,9 @@ So that I can quickly find links on a particular topic
 I want to filter links by tag
 ```
 ___
-# CRUD & SQL Mini Blog
+
+CRUD & SQL Mini Blog
+====================
 
 **Create, Read, Update & Delete (aka - CRUD)** are the four basic functions of *persistent storage*. The **CRUD** cycle is crucial for most dynamic web pages, with users and admins enabled to create, browse, edit and delete online records.
 
